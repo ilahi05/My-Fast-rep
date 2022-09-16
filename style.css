@@ -1,0 +1,23 @@
+.fast{
+    color: brown;
+}
+small{
+    color: #03534d;
+}
+.blog{
+    background-color: #b1210e7e;
+    border: 5px solid #c5f008;
+    border-radius: 40px;
+    margin: 40px 50px;
+    padding: 20px 10px;
+}
+.blog p{
+    color: rgb(8, 250, 250);
+    text-align: justify;
+}
+.blog-taitle{
+    text-align: center;
+}
+.author-name{
+    color: rgb(102, 7, 255);
+}
